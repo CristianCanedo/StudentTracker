@@ -1,0 +1,51 @@
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.exe
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.pdb
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\StudenTracker.exe.config
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\StudenTracker.exe
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\StudenTracker.pdb
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.AddStudent.resources
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.STracker.resources
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.Properties.Resources.resources
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudentTracker.csproj.GenerateResource.Cache
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.ShowTracker.resources
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudentTracker.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\EntityFramework.dll
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\EntityFramework.xml
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\StudentDB.mdf
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\StudentDB_log.ldf
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\bin\Debug\StudentTracker.exe.config
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\bin\Debug\StudentTracker.exe
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\bin\Debug\StudentTracker.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\bin\Debug\EntityFramework.dll
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\bin\Debug\EntityFramework.xml
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\obj\Debug\StudentTracker.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\obj\Debug\StudentTracker.Properties.Resources.resources
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\obj\Debug\StudentTracker.csproj.GenerateResource.Cache
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\obj\Debug\StudentTracker.exe
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\obj\Debug\StudentTracker.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\bin\Debug\Database.mdf
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\bin\Debug\Database_log.ldf
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\obj\Debug\StudentTracker.AddStudent.resources
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\obj\Debug\StudentTracker.STracker.resources
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\StudenTracker\StudenTracker\obj\Debug\StudentTracker.ShowTracker.resources
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\bin\Debug\Database.mdf
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\bin\Debug\Database_log.ldf
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\bin\Debug\StudentTracker.exe.config
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\bin\Debug\StudentTracker.exe
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\bin\Debug\StudentTracker.pdb
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\bin\Debug\EntityFramework.dll
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\bin\Debug\EntityFramework.xml
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\obj\Debug\StudentTracker.csprojResolveAssemblyReference.cache
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\obj\Debug\StudentTracker.AddStudent.resources
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\obj\Debug\StudentTracker.Properties.Resources.resources
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\obj\Debug\StudentTracker.ShowTracker.resources
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\obj\Debug\StudentTracker.csproj.GenerateResource.Cache
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\obj\Debug\StudentTracker.exe
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\obj\Debug\StudentTracker.pdb
+C:\Users\RAWR\Desktop\MSSATracker\UpdatedStudentTracker-master\StudenTracker\StudenTracker\obj\Debug\StudentTracker.StudentTracker.resources

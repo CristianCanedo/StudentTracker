@@ -1,0 +1,10 @@
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\StudenTracker.exe.config
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\StudenTracker.exe
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\bin\Debug\StudenTracker.pdb
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.AddStudent.resources
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.Tracker.resources
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.Properties.Resources.resources
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.csproj.GenerateResource.Cache
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.exe
+C:\Users\wwstudent\Desktop\Microsoft Press\StepByStep\Chapter 17\StudenTracker\StudenTracker\obj\Debug\StudenTracker.pdb
