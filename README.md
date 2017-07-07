@@ -1,4 +1,7 @@
-# StudentTracker
-Very similar design to the AddEmploye database project. Only this time I decided to add the MSSA cohort students with 3 separate windows. One acting as the MainWindow in order to navigate to either the AddStudent window or the Tracker window.
+# "Student Tracker w/Database"
 
-TODO: *Implement delete student function
+(*Project a result of 7 weeks of learnign C#*)
+
+# In Progress
+
+Ashish Singh and I worked together to develop a small project that would display use of connecting an application to a database. He decided to work with Entity Framework's Code-First model as I went with Database-First model and wrote code in C# to make changes to the database with the application.
